@@ -1,0 +1,435 @@
+﻿# Game Russian translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-06-27 18:26\n"
+"PO-Revision-Date: 2023-06-27 18:26\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	0054055546D9DC8FD83478970939B5D1
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.ScaleText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.ScaleText.Text
+msgctxt ",0054055546D9DC8FD83478970939B5D1"
+msgid "15"
+msgstr ""
+
+#. Key:	0093170B4F1C8A01CE27B09F0FF1CBC2
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock.Text
+msgctxt ",0093170B4F1C8A01CE27B09F0FF1CBC2"
+msgid "Save"
+msgstr "Сохранить"
+
+#. Key:	030F5A874CD3623448C09AAEC5D77F4A
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_8.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_8.Text
+msgctxt ",030F5A874CD3623448C09AAEC5D77F4A"
+msgid "?"
+msgstr ""
+
+#. Key:	04B840584BA4075562A9E193DBBAC3E2
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.NoiseVarianceText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.NoiseVarianceText.Text
+msgctxt ",04B840584BA4075562A9E193DBBAC3E2"
+msgid "10"
+msgstr ""
+
+#. Key:	0529D87E49870B6DE05144BDC5693671
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.DeltaTimeText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.DeltaTimeText.Text
+msgctxt ",0529D87E49870B6DE05144BDC5693671"
+msgid "0.2"
+msgstr ""
+
+#. Key:	16B9A2AA4ADDCDAADD52F5BC6992F1E6
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.SystemVariance.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.SystemVariance.Text
+msgctxt ",16B9A2AA4ADDCDAADD52F5BC6992F1E6"
+msgid "SystemVariance"
+msgstr "Шум процесса"
+
+#. Key:	1EC700DA48CAA0709AFFA3863B01BD59
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_5
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_5
+msgctxt ",1EC700DA48CAA0709AFFA3863B01BD59"
+msgid "The coefficient of evolution of the system"
+msgstr "Коэффициент эволюции системы"
+
+#. Key:	255049844A1AA8095B02AD99C79D19EF
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",255049844A1AA8095B02AD99C79D19EF"
+msgid "Plot3_1"
+msgstr ""
+
+#. Key:	267D0EC1456E0E84E8495D8E8D9055CB
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Text3d.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Text3d.Text
+msgctxt ",267D0EC1456E0E84E8495D8E8D9055CB"
+msgid "3D"
+msgstr ""
+
+#. Key:	29790EC04B9E18B25E7DFEAC692163DF
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.BasedVel.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.BasedVel.Text
+msgctxt ",29790EC04B9E18B25E7DFEAC692163DF"
+msgid "0.40"
+msgstr ""
+
+#. Key:	2ECDEF1044593AB2B08B28AFBEA0DC5D
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_6.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_6.Text
+msgctxt ",2ECDEF1044593AB2B08B28AFBEA0DC5D"
+msgid "only Y"
+msgstr "только Y"
+
+#. Key:	338A90744C6D4B36460257A5ED28A3C9
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.SystemVarianceText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.SystemVarianceText.Text
+msgctxt ",338A90744C6D4B36460257A5ED28A3C9"
+msgid "10"
+msgstr ""
+
+#. Key:	3B57CA0B4178FC649D3081B7D1FE5754
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest2.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest2.Text
+msgctxt ",3B57CA0B4178FC649D3081B7D1FE5754"
+msgid "Test2"
+msgstr "Тест2"
+
+#. Key:	3C12D8B146BE84714D1D2AB30512D6A2
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.NoiseVariance.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.NoiseVariance.Text
+msgctxt ",3C12D8B146BE84714D1D2AB30512D6A2"
+msgid "NoiseVariance"
+msgstr "Шум измерений"
+
+#. Key:	3CCF0144459AD15AFED1FEA41BFF9453
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_13.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_13.Text
+msgctxt ",3CCF0144459AD15AFED1FEA41BFF9453"
+msgid "?"
+msgstr ""
+
+#. Key:	3E079AC14EE6035841C308A4E321B25A
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",3E079AC14EE6035841C308A4E321B25A"
+msgid "Plot1_2"
+msgstr ""
+
+#. Key:	3E7B506E4E01AF354347C28AF466D2DD
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.MemoryFilter.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.MemoryFilter.Text
+msgctxt ",3E7B506E4E01AF354347C28AF466D2DD"
+msgid "MemoryFilter :"
+msgstr "Память фильтра"
+
+#. Key:	403A9F584F79ED57C3BE1E8A470559AD
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.BasedCoord.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.BasedCoord.Text
+msgctxt ",403A9F584F79ED57C3BE1E8A470559AD"
+msgid "0.15"
+msgstr ""
+
+#. Key:	4337FBBB4CFFBD0F87BEA3B507909345
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_2
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_2
+msgctxt ",4337FBBB4CFFBD0F87BEA3B507909345"
+msgid "Noise variance in the process noise covariance matrix"
+msgstr "Дисперсия ошибки в ковариационной матрице шума процесса"
+
+#. Key:	4C10254E44ED02992B1C4FBE9A5CAF48
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest3.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest3.Text
+msgctxt ",4C10254E44ED02992B1C4FBE9A5CAF48"
+msgid "Test3"
+msgstr "Тест3"
+
+#. Key:	4CC1F9524AFC75C63B32D5B1311C976D
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",4CC1F9524AFC75C63B32D5B1311C976D"
+msgid "Plot3_2"
+msgstr ""
+
+#. Key:	5424C4D44695E4CAA6A4D7A683079833
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_5.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_5.Text
+msgctxt ",5424C4D44695E4CAA6A4D7A683079833"
+msgid "Cancel"
+msgstr "Отмена"
+
+#. Key:	572AAEFE40A677AF44ED8DB46B6C400B
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",572AAEFE40A677AF44ED8DB46B6C400B"
+msgid "Plot1_3"
+msgstr ""
+
+#. Key:	5D2397C543047746C892F2888A676803
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_4
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_4
+msgctxt ",5D2397C543047746C892F2888A676803"
+msgid "Filter memory weights"
+msgstr "Веса памяти фильтра"
+
+#. Key:	5D83A0274731AC145EAC5F930545B572
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_0.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_0.Text
+msgctxt ",5D83A0274731AC145EAC5F930545B572"
+msgid "only X"
+msgstr "только X"
+
+#. Key:	5EE232F6454EDAD477A963AB0D8AF44B
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",5EE232F6454EDAD477A963AB0D8AF44B"
+msgid "Plot3_3"
+msgstr ""
+
+#. Key:	601F45B04EE6C354E09D8FAA8D5737C1
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.CovText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.CovText.Text
+msgctxt ",601F45B04EE6C354E09D8FAA8D5737C1"
+msgid "0.15"
+msgstr ""
+
+#. Key:	6F2A1DAD40A5C5EF5925A4AFA42F6749
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_4.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_4.Text
+msgctxt ",6F2A1DAD40A5C5EF5925A4AFA42F6749"
+msgid "Start"
+msgstr "Старт"
+
+#. Key:	710BB5884411A2849810158C65B19118
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_11.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_11.Text
+msgctxt ",710BB5884411A2849810158C65B19118"
+msgid "?"
+msgstr ""
+
+#. Key:	77B736874C76058C2A7AC1B149CD2C4D
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_130.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_130.Text
+msgctxt ",77B736874C76058C2A7AC1B149CD2C4D"
+msgid "Exit"
+msgstr "Выход"
+
+#. Key:	8A3D3F0F4CBF15ED9BFE389FC329649A
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest1.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextTest1.Text
+msgctxt ",8A3D3F0F4CBF15ED9BFE389FC329649A"
+msgid "Test1"
+msgstr "Тест1"
+
+#. Key:	8A96FB864EFED2C0627D6982B0B777DA
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_3.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_3.Text
+msgctxt ",8A96FB864EFED2C0627D6982B0B777DA"
+msgid "RealTime"
+msgstr "На лету"
+
+#. Key:	8DE48B8E4B80A45D4922FB830E4533F3
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_3
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_3
+msgctxt ",8DE48B8E4B80A45D4922FB830E4533F3"
+msgid "Ellipsoid coefficient in the sensor noise covariance matrix"
+msgstr "Коэффициент эллипсоида в ковариационной матрице шума измерений"
+
+#. Key:	8E5D91D84E0498EE7923B6B20417CB0A
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_2.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_2.Text
+msgctxt ",8E5D91D84E0498EE7923B6B20417CB0A"
+msgid "only Z"
+msgstr "только Z"
+
+#. Key:	949C283B40511B9B5F8258A2E151D14F
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Scale.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Scale.Text
+msgctxt ",949C283B40511B9B5F8258A2E151D14F"
+msgid "Scale"
+msgstr "Масштаб"
+
+#. Key:	97F0AA99416BC937A587F4A9679B09D6
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_377.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_377.Text
+msgctxt ",97F0AA99416BC937A587F4A9679B09D6"
+msgid "Charts"
+msgstr "Графики"
+
+#. Key:	9B045D6946E4EA0AE99410992A817297
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.Text_Language_En
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.Text_Language_En
+msgctxt ",9B045D6946E4EA0AE99410992A817297"
+msgid "En"
+msgstr ""
+
+#. Key:	A73515C7427A11298A54DBAE88ABF186
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_14.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_14.Text
+msgctxt ",A73515C7427A11298A54DBAE88ABF186"
+msgid "X"
+msgstr ""
+
+#. Key:	A82FD8C3456E7E0120DF8FA7E4765BFB
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Coord.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Coord.Text
+msgctxt ",A82FD8C3456E7E0120DF8FA7E4765BFB"
+msgid "Coordinate"
+msgstr "Координата"
+
+#. Key:	A912B3894F6944C4EF7D2D9EE9E5EDB8
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_7.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_7.Text
+msgctxt ",A912B3894F6944C4EF7D2D9EE9E5EDB8"
+msgid "?"
+msgstr ""
+
+#. Key:	A9ADA0BE4800B18C690185908AF9B3FA
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",A9ADA0BE4800B18C690185908AF9B3FA"
+msgid "Plot2_1"
+msgstr ""
+
+#. Key:	ACC35780433CB677B7EFB384C61C0A07
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot1.ChartTitle
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot1.ChartTitle
+msgctxt ",ACC35780433CB677B7EFB384C61C0A07"
+msgid "X coordinates"
+msgstr "X координата"
+
+#. Key:	ACEB0E64455E693FB1BA7DBEFAF5D295
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_1
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.TextHelp_1
+msgctxt ",ACEB0E64455E693FB1BA7DBEFAF5D295"
+msgid "Noise variance in the sensor noise covariance matrix"
+msgstr "Дисперсия ошибки в ковариационной матрице шума измерений"
+
+#. Key:	AF156B7244198C9978058BB71B6C2CB1
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_741.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_741.Text
+msgctxt ",AF156B7244198C9978058BB71B6C2CB1"
+msgid "Stop"
+msgstr "Стоп"
+
+#. Key:	BA15D1184E2F6EB1725CA795E5186758
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.UpdateText.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.UpdateText.Text
+msgctxt ",BA15D1184E2F6EB1725CA795E5186758"
+msgid "0.8"
+msgstr ""
+
+#. Key:	BCCC20B54059B46C6A1159882E2E13F5
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot2.ChartTitle
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot2.ChartTitle
+msgctxt ",BCCC20B54059B46C6A1159882E2E13F5"
+msgid "Y coordinates"
+msgstr "Y координата"
+
+#. Key:	C1FAC0E14BCFFA7DDF0C5986D07A169C
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",C1FAC0E14BCFFA7DDF0C5986D07A169C"
+msgid "Plot2_2"
+msgstr ""
+
+#. Key:	CBEBE24C43B4379942C64CBDD8D8DE22
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_12.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_12.Text
+msgctxt ",CBEBE24C43B4379942C64CBDD8D8DE22"
+msgid "?"
+msgstr ""
+
+#. Key:	D2A066B24EE9D51FFCA1AE8FFDE399B2
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.CovarianceRatio.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.CovarianceRatio.Text
+msgctxt ",D2A066B24EE9D51FFCA1AE8FFDE399B2"
+msgid "CovarianceRatio"
+msgstr "Коэф. ковариации"
+
+#. Key:	D37300764CC1EE1C359F2A9D961DC324
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot3.ChartTitle
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Plot3.ChartTitle
+msgctxt ",D37300764CC1EE1C359F2A9D961DC324"
+msgid "Z coordinates"
+msgstr "Z координата"
+
+#. Key:	D6B30FD6403C95857463379A24EDF6B4
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_10.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_10.Text
+msgctxt ",D6B30FD6403C95857463379A24EDF6B4"
+msgid "?"
+msgstr ""
+
+#. Key:	D8A354A642B0BB3688617A924BF2D3C4
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",D8A354A642B0BB3688617A924BF2D3C4"
+msgid "Plot2_3"
+msgstr ""
+
+#. Key:	DC386707454CF68041C301B571120D45
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.UpdateRatio.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.UpdateRatio.Text
+msgctxt ",DC386707454CF68041C301B571120D45"
+msgid "UpdateRatio"
+msgstr "Коэф. обновления"
+
+#. Key:	E0C9C51344F8B9CF9B2855A5939EF1A4
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_9.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_9.Text
+msgctxt ",E0C9C51344F8B9CF9B2855A5939EF1A4"
+msgid "?"
+msgstr ""
+
+#. Key:	E16175264CF16198ED540DABC8F99D7C
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Vel.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Vel.Text
+msgctxt ",E16175264CF16198ED540DABC8F99D7C"
+msgid "Velocity"
+msgstr "Скорость"
+
+#. Key:	ED9B0ECF4FDDA5AF679753AFD9380E24
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:ExecuteUbergraph_HUD_Screen [Script Bytecode]
+msgctxt ",ED9B0ECF4FDDA5AF679753AFD9380E24"
+msgid "Plot1_1"
+msgstr ""
+
+#. Key:	EDF881B746082FF266994A9BAFDCB991
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Text2d.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.Text2d.Text
+msgctxt ",EDF881B746082FF266994A9BAFDCB991"
+msgid "2D"
+msgstr ""
+
+#. Key:	EE5A4409492942D0A454F294F6EFDE0A
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.DeltaTime.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.DeltaTime.Text
+msgctxt ",EE5A4409492942D0A454F294F6EFDE0A"
+msgid "DeltaTime"
+msgstr "Интервал"
+
+#. Key:	F5A4C38146DFDA4256AEADBB1B3DE8B9
+#. SourceLocation:	/Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_16.Text
+#: /Game/HUD/HUD_Screen.HUD_Screen_C:WidgetTree.TextBlock_16.Text
+msgctxt ",F5A4C38146DFDA4256AEADBB1B3DE8B9"
+msgid "Ru"
+msgstr ""
+
+#. Key:	FBFB502B4C9BF63978F0E6850AD82303
+#. SourceLocation:	/Game/HUD/HUD_Screen.Default__HUD_Screen_C.Text_Language_Ru
+#: /Game/HUD/HUD_Screen.Default__HUD_Screen_C.Text_Language_Ru
+msgctxt ",FBFB502B4C9BF63978F0E6850AD82303"
+msgid "Ru"
+msgstr ""
+
